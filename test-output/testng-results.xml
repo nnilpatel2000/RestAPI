@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3217" started-at="2021-11-09T02:06:46Z" finished-at="2021-11-09T02:06:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3217" started-at="2021-11-09T02:06:46Z" finished-at="2021-11-09T02:06:49Z">
+      <class name="com.employeeapi.testCases.DataDrivenTesting">
+        <test-method status="PASS" signature="addNewData(java.lang.String, java.lang.String)[pri:0, instance:com.employeeapi.testCases.DataDrivenTesting@4df50bcc]" name="addNewData" duration-ms="1571" started-at="2021-11-09T02:06:47Z" data-provider="LoginData" finished-at="2021-11-09T02:06:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nil123x]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewData -->
+        <test-method status="PASS" signature="addNewData(java.lang.String, java.lang.String)[pri:0, instance:com.employeeapi.testCases.DataDrivenTesting@4df50bcc]" name="addNewData" duration-ms="318" started-at="2021-11-09T02:06:49Z" data-provider="LoginData" finished-at="2021-11-09T02:06:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nil124x]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aws]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewData -->
+        <test-method status="PASS" signature="addNewData(java.lang.String, java.lang.String)[pri:0, instance:com.employeeapi.testCases.DataDrivenTesting@4df50bcc]" name="addNewData" duration-ms="297" started-at="2021-11-09T02:06:49Z" data-provider="LoginData" finished-at="2021-11-09T02:06:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nil125x]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cloud]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewData -->
+        <test-method status="PASS" signature="addNewData(java.lang.String, java.lang.String)[pri:0, instance:com.employeeapi.testCases.DataDrivenTesting@4df50bcc]" name="addNewData" duration-ms="320" started-at="2021-11-09T02:06:49Z" data-provider="LoginData" finished-at="2021-11-09T02:06:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nil126x]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewData -->
+      </class> <!-- com.employeeapi.testCases.DataDrivenTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
